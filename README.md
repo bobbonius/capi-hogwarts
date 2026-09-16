@@ -4,6 +4,10 @@ A small Hogwarts character registry. It lists people from [Potter DB](https://ap
 
 ## How to run
 
+Go to [Capi Hogwarts](https://capi-hogwarts.vercel.app/)
+
+or...
+
 Node.js 24+ and [pnpm](https://pnpm.io) 11 are required.
 
 ```bash
